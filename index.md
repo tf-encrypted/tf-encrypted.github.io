@@ -48,7 +48,7 @@ with tfe.Session() as sess:
 
 # Examples
 
-See [Examples](https://github.com/tf-encrypted/tf-encrypted/examples).
+See the [examples in the GitHub repo](https://github.com/tf-encrypted/tf-encrypted/tree/master/examples).
 
 # Background & Further Reading
 
